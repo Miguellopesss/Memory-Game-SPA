@@ -1,5 +1,5 @@
 # Memory-Game-SPA
-Desenvolvimento de uma aplicação de página única (SPA) para a plataforma "Memory Game", utilizando o framework Vue.js para o cliente web, uma API Restful e um servidor WebSocket.
+Desenvolvimento de uma aplicação de página única (SPA) para a plataforma "Memory Game", que utiliza a framework Vue.js para o cliente web, uma API Restful e um servidor WebSocket.
 
 Este repositório documenta o desenvolvimento de uma aplicação de página única (SPA) para a plataforma "Memory Game". O projeto utiliza o Vue.js para o desenvolvimento do cliente web, garantindo uma interface interativa e dinâmica. Além disso, foi implementado um servidor API Restful para a gestão de dados e um servidor WebSocket para a comunicação em tempo real, permitindo uma experiência de jogo interativa e fluída.
 
